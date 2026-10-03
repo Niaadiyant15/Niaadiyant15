@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/username-anda" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/nia-adiyanti-477150297/?isSelfProfile=true" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/adzzz_21" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
