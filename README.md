@@ -1,9 +1,9 @@
-<h1 align="center">Hi There, I'm Nia Adiyanti 👋</h1>
+<h1 align="center">Hi There, I'm Nia Adiyanti, S.Kom. 👋</h1>
 <h3 align="center">IT Teacher & Web Administrator | FullStack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-anda" target="_blank">
-    <img src="https://www.linkedin.com/in/nia-adiyanti-477150297/?isSelfProfile=true" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/nia-adiyanti-477150297/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/adzzz_21" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -20,9 +20,9 @@
 
 ### 💻 About Me
 
-* **Current Role:** IT Teacher & Web/LMS Administrator at SMK Bina Informatika.
-* **Tech Stack & Tools:** HTML, CSS, JavaScript, PHP, Node.js, Laravel, Vue.js, MySQL, PostgreSQL, MongoDB, Git, VS Code, Postman.
-* **Passion:** Building educational mini-games, interactive web-based applications, and managing school digital systems.
+* **Current Role:** IT Teacher, Web & LMS Administrator at SMK Bina Informatika.
+* **Tech Stack & Tools:** HTML, CSS, JavaScript, PHP, Laravel, Vue.js, Node.js, MySQL, PostgreSQL, MongoDB, VS Code, Git.
+* **Passion:** Building educational mini-games, interactive web-based applications, and managing school digital platforms.
 
 Hello! I am Nia Adiyanti, S.Kom., an IT educator and web developer based in Indonesia. I enjoy building real and useful digital products, school management tools, and interactive learning platforms. Every line of code I write has one clear goal: to build functional systems and help students learn effectively. Explore my repositories and see what I can do!
 
